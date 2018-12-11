@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto);
+
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+body {
+	font-family:'Roboto', sans-serif;
+	font-size: 16px;
+	margin: 0px;
+	background-color: #f9f9f9; 
+	}
+
+h1 {
+	font-family:'Abril+Fatface';
+	font-size: 50px;
+	font-style: lighter;
+}
+
+h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	font-style: bold;
+	margin-top: 40px;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	width: 150px;
+	height: : 150px;
+}
